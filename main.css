@@ -87,3 +87,15 @@ section h2 {
 #economy .articles article a{
     background-color: #dfb579;
 }
+#tecno{
+    background-color: #709c96;
+}
+#tecno .articles article a {
+    background-color: #4e7671;
+}
+#world{
+    background-color: #938787;
+}
+#world .articles article a {
+    background-color: #625656;
+}
